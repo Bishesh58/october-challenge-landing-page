@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background:  #010a15;
+}
+
+.wrapper{
+ 
+}
+.shadder {
+  height: 300px;
+  background:#000d1a;
+  width: 100%;
+  position: absolute;
+}
+
+.box {
+    color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 1;
+    top: 200px;
+
+}
+
+.nav{
+  width: 80%;
+  height: 100px;
+  position: absolute;
+  color: white;
+  z-index: 1;
+  top: 60px;
+}
+.facebook{
+  height: 200px;
+  background:  #0b304b;
+}
+
+.fb{
+ 
+  height: 100px;
+  background:  #0b304b;
+}
+
+.r-top{
+  text-align: center;
+}
